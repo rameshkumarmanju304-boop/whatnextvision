@@ -1,0 +1,1 @@
+https://orgfarm-9728a28002-dev-ed.develop.my.salesforce-setup.com/lightning/setup/SetupOneHome/home?SetupDomainProbePassed=true
